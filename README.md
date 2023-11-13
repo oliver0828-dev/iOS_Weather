@@ -35,6 +35,6 @@ If you would like to contribute to the development of iOS_Weather, feel free to 
 
 ## Contact
 
-For any inquiries or feedback, please contact [Oliver Park] at [oliverco0828@gmail.com.
+For any inquiries or feedback, please contact [Oliver Park] at [oliverco0828@gmail.com].
 
 Feel free to customize the information further based on your preferences and the specific details of your project.
